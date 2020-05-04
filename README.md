@@ -2,7 +2,7 @@
 
 ### Install venv
 ```
-pip install virtualenv
+pip3 install virtualenv
 ```
 
 ### Create venv
